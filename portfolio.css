@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#552619;
+}
+
+#contact,
+#objective,
+#expertise,
+#educ{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:#B2456E;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    max-height: 198px;
+}
+#contact{
+    margin-top: -40px;
+}
+img{
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 90%;
+    margin-left: 43%;
+    position: relative;
+}
+
+h2 {
+    color: #FBEAE7;
+}
+td{
+    padding: 15px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
